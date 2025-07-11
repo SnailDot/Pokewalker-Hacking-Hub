@@ -34,7 +34,7 @@ The following tools/programs are what I think the easiest way to go about doing 
 > 
 > *Download:* https://github.com/francesco265/pwalkerHax
 
-> **Tinker:** A program that allows you to edit the files within your HG/SS game, mainly the pokemon sprites that appear on the pokewalker.
+> **Tinke:** A program that allows you to edit the files within your HG/SS game, mainly the pokemon sprites that appear on the pokewalker.
 > 
 > *Download:* https://github.com/pleonex/tinke
 
