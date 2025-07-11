@@ -13,10 +13,10 @@ The main set of tools and info sources are listed below, while everything else i
 - Custom Pokemon Sprites - [**Guide**](https://github.com/SnailDot/Walker-Flow/wiki)
 - Custom Routes - [**Guide**](https://github.com/SnailDot/Walker-Flow/wiki)
 - Custom Gifts (Items and Pokemon)
-- Give Watts
-- Give Steps
-- Pokewalker ROM dump
-- Pokewalker save file dump
+- Give Watts - [**Guide**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/Steps---Watts-Cheating)
+- Give Steps - [**Guide**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/Steps---Watts-Cheating)
+- Pokewalker ROM dump - [**Guide**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/PwalkerHax-Info)
+- Pokewalker save file dump - [**Guide**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/PwalkerHax-Info)
 - RCE  - [**Link**](https://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker)
 - Pokewalker emulation
 - Custom Shell
@@ -42,7 +42,7 @@ The following tools/programs are what I think the easiest way to go about doing 
 > 
 > *Download:* https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor
 
-## All Tools can be found here
+## All Tools can be found here *wiki page not made yet*
 
 -------------------------
 # Main Resources / Info:
@@ -58,4 +58,4 @@ The following tools/programs are what I think the easiest way to go about doing 
 > 
 > *Link:* https://discord.gg/cyVuXDNTFq
 
-## All Resources / Info sources can be found here
+## All Resources / Info sources can be found here *wiki page not made yet*
