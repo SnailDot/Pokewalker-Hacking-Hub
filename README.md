@@ -52,7 +52,7 @@ The following tools/programs are what I think the easiest way to go about doing 
 
 > **Project Walker:** My deep dive into the walker where I made WalkerFlow, CardWalker, and more
 > 
-> *Link:* https://github.com/SnailDot/ProjectWalker
+> *Link:* https://github.com/SnailDot/Walker-Flow
 
 > **Pokewalker Hacking Discord Server:** The main place for talking about hacking the pokewalker
 > 
