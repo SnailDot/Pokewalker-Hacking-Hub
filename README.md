@@ -1,7 +1,7 @@
 # Pokewalker-Hacking-Hub
 The all-in-one place for hacking the pokewalker
 
-I got tired of having to hunt things down around the internet when it comes to hacking the pokewalker, so I made this to solve that problem. I aim to have links and guides for everything you can do with the pokewalker in this repo. 
+I got tired of having to hunt things down around the internet each time I got back into hacking the pokewalker, so I made this to solve that problem. I aim to have links and guides for everything you can do with the pokewalker in this repo. 
 
 The main set of tools and info sources are listed below, while everything else is stored in the wiki. The wiki is where you can find guides, pictures, and more.
 
