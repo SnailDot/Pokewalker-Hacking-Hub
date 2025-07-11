@@ -57,5 +57,3 @@ The following tools/programs are what I think the easiest way to go about doing 
 > **Pokewalker Hacking Discord Server:** The main place for talking about hacking the pokewalker
 > 
 > *Link:* https://discord.gg/cyVuXDNTFq
-
-## All Resources / Info sources can be found here *wiki page not made yet*
