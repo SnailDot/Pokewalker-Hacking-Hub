@@ -6,7 +6,10 @@ I got tired of having to hunt things down around the internet each time I got ba
 The main set of tools and info sources are listed below, while everything else is stored in the wiki. The wiki is where you can find guides, pictures, and more.
 
 > # LAST UPDATED: 
-> *7/10/25*
+> *7/11/25*
+>
+> Newest Additions:
+> - Device Mods Wiki Page
 
 ---------------------------
 # Whats Currently Possible With The Pokewalker:
@@ -19,8 +22,8 @@ The main set of tools and info sources are listed below, while everything else i
 - Pokewalker save file dump - [**Guide**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/PwalkerHax-Info)
 - RCE  - [**Link**](https://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker)
 - Pokewalker emulation
-- Custom Shell
-- Backlight mod
+- Custom Shell  - [**Link:**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/Device-Mods)
+- Backlight mod - [**Link:**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/Device-Mods)
 
 -------------------------
 # Main Tools:
