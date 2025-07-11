@@ -12,7 +12,7 @@ The main set of tools and info sources are listed below, while everything else i
 # Whats Currently Possible With The Pokewalker:
 - Custom Pokemon Sprites - [**Guide**](https://github.com/SnailDot/Walker-Flow/wiki)
 - Custom Routes - [**Guide**](https://github.com/SnailDot/Walker-Flow/wiki)
-- Custom Gifts (Items and Pokemon)
+- Custom Gifts (Items and Pokemon) - [**Guide**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/Gift-Pokemon---Items)
 - Give Watts - [**Guide**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/Steps---Watts-Cheating)
 - Give Steps - [**Guide**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/Steps---Watts-Cheating)
 - Pokewalker ROM dump - [**Guide**](https://github.com/SnailDot/Pokewalker-Hacking-Hub/wiki/PwalkerHax-Info)
